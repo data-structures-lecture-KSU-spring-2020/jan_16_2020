@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="data_structures_lecture_code" Database="" Version="10.0.0">
+  <Project Name="jan_16_2020" Path="jan_16_2020/jan_16_2020.project" Active="Yes"/>
+  <Project Name="jan_21_2020" Path="jan_21_2020/jan_21_2020.project"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="jan_16_2020" ConfigName="Debug"/>
+      <Project Name="jan_21_2020" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="jan_16_2020" ConfigName="Release"/>
+      <Project Name="jan_21_2020" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
